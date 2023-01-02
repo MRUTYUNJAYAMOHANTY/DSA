@@ -1,0 +1,11 @@
+Solving a problem could have different DS and Algorithm standards.How to decide which one is memory efficient.
+. Time taken to execute a program depends upon many factor
+   > computer which one is running / processing power of machine
+   > programming language
+     * C and C++ are compiled language
+        - when we generate binary(while compiling) specific to machine
+     * Java and Python are interpreted language
+        - generate intermediate code
+       $ Java and Python are typically run slower than C and C++
+   > System load
+   > Input size

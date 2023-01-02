@@ -1,0 +1,15 @@
+https://www.msys2.org/
+
+Download and install from above URL
+
+pacman -Syu
+pacman -Su
+pacman -Ss gcc
+pacman -S mingw-w64-x86_64-gcc
+
+After installation make bin directory set in environment of path variable
+
+
+Reference
+https://code.visualstudio.com/docs/cpp/config-mingw
+
