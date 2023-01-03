@@ -1,0 +1,19 @@
+* All initialization takes constant amount of time (C)
+* return something is also constant(C)
+* May be a statemnt execution a liner number of time
+* checking condition in a loop also linear
+* increment happening in a loop also linear
+
+                    ----   ---- 
+
+* type of i/p size
+* Best case : constant : - minimum order of growth of an algorithm
+                         - its bogus we dont require the best.
+
+* Average case : linear : - Time taken for every input 
+                          - we are not sure what would be i/p type and size 
+                          - We have to either make certain assumption or in ideal case to know the 
+                            exact i/p
+                          - impractical many times
+                          
+* Worst case : linear : mostly used in real world
