@@ -1,1 +1,6 @@
 * we measure order of growth of time taken by a function or program in terms of input size
+* Does n't depend upon programming language, machine and test cases.
+* While we do worst case analysis , its algorithmic specific not test cases specific
+* we dont have to implement algorithm & then analyse/measure time using asymptotic analysis
+   -- Process of asymptotic analysis --
+* we get an expression of time taken by code in terms of input size
