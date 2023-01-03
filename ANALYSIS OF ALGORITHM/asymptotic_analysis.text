@@ -4,3 +4,11 @@
 * we dont have to implement algorithm & then analyse/measure time using asymptotic analysis
    -- Process of asymptotic analysis --
 * we get an expression of time taken by code in terms of input size
+
+e.g
+find the sum of n natural numbers
+   - using formula[takes constant time(C) irrespective of input value]
+   - using single loop & constant[C1n+C2] / linear
+   - using multiple loop & constant[C1n^2+C2n+C3] / quadratic
+find order of growth
+   - ignore lower order term, consider highest order term

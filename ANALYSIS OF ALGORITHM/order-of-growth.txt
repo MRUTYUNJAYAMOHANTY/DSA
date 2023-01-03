@@ -1,0 +1,6 @@
+1. ignore lower order terms
+2. ignore leading term constant
+   -- way to compare terms -- 
+C < loglogn < logn < n^1/3 < n^1/2 < n < n^2 < n^3 < n^4 < 2^n < n^n
+
+* which function/algorithm has higher order of growth is a bad algorithm
