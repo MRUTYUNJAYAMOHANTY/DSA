@@ -1,0 +1,8 @@
+* Used to represent exact or upper bound order of growth ; precisely used for upper bound
+
+* direct way
+   - ignore lower order terms 
+   - ignore leading constant
+
+* Application 
+   - used when we have an upper bound
