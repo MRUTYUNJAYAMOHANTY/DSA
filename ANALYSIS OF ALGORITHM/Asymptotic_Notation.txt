@@ -1,0 +1,17 @@
+* Asymptotic notations are mathematical notations to represent order of growth of any   
+   mathematical  function
+* Basically 3 major types of Asymptotic notations
+   1. Big O notation :O(n):Exact or Upper : linear or less than linear
+      e.g 
+       C1n + C2
+        can be written as O(n) or O(n^2)
+        In Big o notation , we can write n or higher than n like n^2,nlogn..
+      - mostly used in real world / upper bound  
+   2. Theta : Exact
+      - takes constant time
+      - Θ(1) ,O(1)
+      - mostly used in real world / exact bound
+   3. Omega: Exact or lower
+       - either constant or any value higher than constant
+       - Ω(1),Ω(n)
+       - very less used in real world
