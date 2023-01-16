@@ -6,3 +6,4 @@
 
 * Application 
    - used when we have an upper bound
+- covers smaller order of growth also

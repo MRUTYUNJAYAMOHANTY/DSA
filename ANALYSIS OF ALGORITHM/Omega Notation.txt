@@ -1,0 +1,3 @@
+* Opposite of Big O
+* used for lower bound
+- covers greater order of growth also
